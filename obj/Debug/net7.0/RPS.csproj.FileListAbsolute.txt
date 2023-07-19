@@ -1,0 +1,15 @@
+D:\Programmmieren\Projects\RPS\bin\Debug\net7.0\RPS.exe
+D:\Programmmieren\Projects\RPS\bin\Debug\net7.0\RPS.deps.json
+D:\Programmmieren\Projects\RPS\bin\Debug\net7.0\RPS.runtimeconfig.json
+D:\Programmmieren\Projects\RPS\bin\Debug\net7.0\RPS.dll
+D:\Programmmieren\Projects\RPS\bin\Debug\net7.0\RPS.pdb
+D:\Programmmieren\Projects\RPS\obj\Debug\net7.0\RPS.csproj.AssemblyReference.cache
+D:\Programmmieren\Projects\RPS\obj\Debug\net7.0\RPS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmmieren\Projects\RPS\obj\Debug\net7.0\RPS.AssemblyInfoInputs.cache
+D:\Programmmieren\Projects\RPS\obj\Debug\net7.0\RPS.AssemblyInfo.cs
+D:\Programmmieren\Projects\RPS\obj\Debug\net7.0\RPS.csproj.CoreCompileInputs.cache
+D:\Programmmieren\Projects\RPS\obj\Debug\net7.0\RPS.dll
+D:\Programmmieren\Projects\RPS\obj\Debug\net7.0\refint\RPS.dll
+D:\Programmmieren\Projects\RPS\obj\Debug\net7.0\RPS.pdb
+D:\Programmmieren\Projects\RPS\obj\Debug\net7.0\RPS.genruntimeconfig.cache
+D:\Programmmieren\Projects\RPS\obj\Debug\net7.0\ref\RPS.dll
